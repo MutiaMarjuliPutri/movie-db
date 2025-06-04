@@ -93,7 +93,7 @@
 
     <!-- Footer -->
     <footer class="bg-success text-white text-center py-3">
-      &copy; 2025 Developed by Annisa
+      &copy; 2025 Developed by Mutia
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"></script>
